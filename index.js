@@ -37,7 +37,7 @@ const questions = [
   },
 ];
 
-// Define a function that invokes prompts and handle responses using promise; then it calls writeToFile function:
+// Define a function that invokes prompts and handle responses using promise; then call writeToFile function:
 const init = function () {
   inquirer.prompt(questions).then((response) => {
     const logoMarkup = generateLogo(response);
