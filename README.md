@@ -45,7 +45,7 @@ npm i
 This application is used to create logo SVG file. After installation, run the following command:
 
 ```bash
-node index.js
+npm start
 ```
 
 And you will be prompted with a series of questions. Answer the questions and a logo SVG file will be generated in the 'examples' folder. The SVG file will contain the logo that you have created with your answers.
