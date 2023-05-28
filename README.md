@@ -52,7 +52,7 @@ And you will be prompted with a series of questions. Answer the questions and a 
 
 Here's a walkthrough video that demonstrates the functionality and codes of the application:
 
-https://drive.google.com/file/d/1hJrz8HdLhjL0GAPgpUplWBJ6pifW1bCW/view?usp=share_link
+https://drive.google.com/file/d/1ICHGPYQUlDNuYW-6V-PKJFE4yUh9w-cL/view?usp=share_link
 
 ---
 
