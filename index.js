@@ -24,7 +24,7 @@ const questions = [
   {
     type: `list`,
     name: `shape`,
-    message: `Please choose a shape of your logo. Default is Circle.`,
+    message: `Please choose a shape of your logo. Default shape is Circle.`,
     choices: [`Circle`, `Square`, `Triangle`],
     default: `Circle`,
   },
