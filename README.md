@@ -1,10 +1,8 @@
-
-  
 ![license](https://img.shields.io/badge/license-ISC-blue.svg) ![logo-creator](https://img.shields.io/github/languages/count/jyoungjoon/logo-creator) ![logo-creator](https://img.shields.io/github/languages/top/jyoungjoon/logo-creator)
 
 ---
 
-  # Logo Creator
+# Logo Creator
 
 ## Description
 
@@ -52,9 +50,9 @@ node index.js
 
 And you will be prompted with a series of questions. Answer the questions and a logo SVG file will be generated in the 'examples' folder. The SVG file will contain the logo that you have created with your answers.
 
-Here's a walkthrough video that demonstrates the functionality of the application:
+Here's a walkthrough video that demonstrates the functionality and codes of the application:
 
-{VIDEO LINK}
+https://drive.google.com/file/d/1hJrz8HdLhjL0GAPgpUplWBJ6pifW1bCW/view?usp=share_link
 
 ---
 
